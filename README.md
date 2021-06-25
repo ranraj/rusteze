@@ -1,5 +1,7 @@
 # rusteze
-Command line application that manage server entires and connect through ssh
+Command line application that manage server entires and connect through ssh. 
+
+Supporting Operating System :  MAC
 
 ```
 cargo build
