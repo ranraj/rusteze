@@ -1,7 +1,7 @@
-name: Todo
+name: rusteze
 version: "1.0"
 author: Ranjith Raj D <ranjithraj.d@gmail.com>
-about: Todo app
+about: Rusteze SSH connecting App
 settings: 
     - ArgRequiredElseHelp
 args:
